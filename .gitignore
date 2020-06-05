@@ -1,3 +1,5 @@
 training.1600000.processed.noemoticon.csv
 *.pickle
+*.pdf
 gender-classifier-DFE-791531.csv
+
